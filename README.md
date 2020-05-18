@@ -1,5 +1,12 @@
 # FinalProject-PI_05311840000030
+- Nama: Widyantari Febiyanti
+- NRP: 05311840000030
 
+Penjelasan singkat aplikasi: 
+Pada kesempatan kali ini dipersilahkan untuk membuat website berbasis MVC sebagai tempat penyumbangan/donasi bagi bencana pandemik Covid-19. Aplikasi ini akan memudahkan donatur untuk mengisi donasi yang diinginkan. Selain itu donatur juga bisa melihat lis penyumbang yang tertera pada opsi ```lihat sumbangan```
+
+
+Berikut adalah penjelasan fitur atau langkah-langkah serta screenshot dari website: 
 1. Berikut adalah halaman awal web: 
 ![lampiran awal](https://user-images.githubusercontent.com/55181778/82150022-ce71f780-9881-11ea-8386-9ccd0f67af1e.jpg)
 
