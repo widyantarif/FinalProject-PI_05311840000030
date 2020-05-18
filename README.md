@@ -3,6 +3,7 @@
 - NRP: 05311840000030
 
 Penjelasan singkat aplikasi: 
+
 Pada kesempatan kali ini dipersilahkan untuk membuat website berbasis MVC sebagai tempat penyumbangan/donasi bagi bencana pandemik Covid-19. Aplikasi ini akan memudahkan donatur untuk mengisi donasi yang diinginkan. Selain itu donatur juga bisa melihat lis penyumbang yang tertera pada opsi ```lihat sumbangan```
 
 
